@@ -1,0 +1,20 @@
+/*!*@apply tailwindcss;*!*/
+/*!*@tailwind base;*!*/
+/*!*@tailwind components;*!*/
+/*!*@tailwind utilities;*!*/
+
+/*.productCard {*/
+/*    @apply flex items-center;*/
+/*}*/
+
+/*.wrapper {*/
+/*    @apply flex items-center;*/
+/*}*/
+
+/*.region {*/
+/*    @apply px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700;*/
+/*}*/
+
+/*.regionText {*/
+/*    @apply text-xs bg-gray-100 px-2 py-1 rounded-md text-gray-600;*/
+/*}*/
