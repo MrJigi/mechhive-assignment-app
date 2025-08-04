@@ -17,23 +17,3 @@ body {
   }
 }
 
-/* app.css */
-/*@tailwind base;*/
-/*@tailwind components;*/
-/*@tailwind utilities;*/
-
-/*.productCard {*/
-/*  @apply flex items-center;*/
-/*}*/
-
-/*.wrapper {*/
-/*  @apply flex items-center;*/
-/*}*/
-
-/*.region {*/
-/*  @apply px-4 bg-blue-500 font-semibold rounded-lg shadow-md hover:bg-blue-700;*/
-/*}*/
-
-/*.regionText {*/
-/*  @apply text-xs px-2 py-1 rounded-md text-gray-600;*/
-/*}*/

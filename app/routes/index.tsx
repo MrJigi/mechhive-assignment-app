@@ -1,4 +1,4 @@
-// app/routes/index.tsx
+
 export function loader() {
     return null;
 }
