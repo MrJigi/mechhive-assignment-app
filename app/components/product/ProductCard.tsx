@@ -44,7 +44,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
                 ? '$'
                 : currency === 'GBP'
                     ? '£'
-                    : '¤'; // fallback symbol
+                    : currency; // fallback symbol
 
         const amount =
             product.priceAmount ??
